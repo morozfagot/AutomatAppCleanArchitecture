@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AdministrationDrinks\Commands\" />
+    <Folder Include="AdministrationDrinks\Queries\" />
+    <Folder Include="Clients\Commands\" />
+    <Folder Include="Coins\Commands\" />
+    <Folder Include="Drinks\Commands\" />
+    <Folder Include="Wallets\Queries\CheckDrinkInAutomat\" />
+    <Folder Include="Wallets\Queries\GetDrinkInAutomatError\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AutomatApp.Domain\AutomatApp.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

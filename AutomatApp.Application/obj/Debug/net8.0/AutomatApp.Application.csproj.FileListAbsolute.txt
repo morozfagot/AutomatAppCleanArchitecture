@@ -1,0 +1,5 @@
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Application\obj\Debug\net8.0\AutomatApp.Application.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Application\obj\Debug\net8.0\AutomatApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Application\obj\Debug\net8.0\AutomatApp.Application.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Application\obj\Debug\net8.0\AutomatApp.Application.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Application\obj\Debug\net8.0\AutomatApp.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Infrastructure.deps.json
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Infrastructure.runtimeconfig.json
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Infrastructure.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Infrastructure.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\bin\Debug\net8.0\AutomatApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.csproj.CopyComplete
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\refint\AutomatApp.Infrastructure.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\AutomatApp.Infrastructure.genruntimeconfig.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Infrastructure\obj\Debug\net8.0\ref\AutomatApp.Infrastructure.dll

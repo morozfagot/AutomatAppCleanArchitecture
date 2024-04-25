@@ -1,0 +1,17 @@
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\TradeApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\TradeApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\TradeApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\TradeApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\TradeApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\bin\Debug\net8.0\AutomatApp.Domain.deps.json
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\bin\Debug\net8.0\AutomatApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\bin\Debug\net8.0\AutomatApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\refint\AutomatApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\AutomatApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\AutomatApp\AutomatApp.Domain\obj\Debug\net8.0\ref\AutomatApp.Domain.dll
